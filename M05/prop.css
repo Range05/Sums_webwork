@@ -1,0 +1,73 @@
+.background-color{
+  background-color: grey;
+}
+.first{
+  padding-top: 10px;
+  background-size: 100px 200px;
+  background-color: black;
+}
+h1{
+  text-align: center;
+  color: white;
+  /* background-color: black; */
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: black; */
+  align-content: center;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  align-content: center;
+}
+.hero{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-size: 100px 200px;
+  text-align: center;
+  color: white;
+  background-color: darkcyan;
+}
+.kedua{
+  padding: 20px;
+}
+.ketiga{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+img{
+  width: 50%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
